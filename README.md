@@ -35,3 +35,5 @@ C lang
 
 [simple linked lists](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist.c)
 
+[simple linked lists function.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist_functions.c)
+
