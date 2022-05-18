@@ -21,9 +21,9 @@ C lang
 
 [double linked list 2.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/doublelinkedlists.c)
 
-[factorisation](https://github.com/Rokkampuneeth/19ECB132/blob/main/factor%20!.c)
+[factorisation.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/factor%20!.c)
 
-[frequency](https://github.com/Rokkampuneeth/19ECB132/blob/main/frequency.c)
+[frequency.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/frequency.c)
 
 [middle linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/middle_linkedlist.c)
 
@@ -33,9 +33,10 @@ C lang
 
 [reverse linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/reverse_linkedlist.c)
 
-[simple linked lists](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist.c)
+[simple linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist.c)
 
 [simple linked lists function.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist_functions.c)
 
-[singly liked lists](https://github.com/Rokkampuneeth/19ECB132/blob/main/singly_linkedlist.c)
+[singly liked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/singly_linkedlist.c)
 
+[singular linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/singular%20linked%20list.c)
