@@ -26,3 +26,5 @@ C lang
 [frequency](https://github.com/Rokkampuneeth/19ECB132/blob/main/frequency.c)
 
 [middle linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/middle_linkedlist.c)
+
+[pointers program.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/pointers%20program%202.c)
