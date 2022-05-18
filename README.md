@@ -23,3 +23,4 @@ C lang
 
 [factorisation](https://github.com/Rokkampuneeth/19ECB132/blob/main/factor%20!.c)
 
+[frequency](https://github.com/Rokkampuneeth/19ECB132/blob/main/frequency.c)
