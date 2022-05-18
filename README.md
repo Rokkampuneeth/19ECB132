@@ -20,3 +20,6 @@ C lang
 [double linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/double%20linked%20list.c)
 
 [double linked list 2.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/doublelinkedlists.c)
+
+[factorisation](https://github.com/Rokkampuneeth/19ECB132/blob/main/factor%20!.c)
+
