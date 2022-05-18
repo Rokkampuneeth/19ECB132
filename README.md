@@ -20,4 +20,4 @@ C lang
 [simple_linked_lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist.c)  
 [simple_linked_lists function.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist_functions.c)  
 [singly_liked_lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/singly_linkedlist.c)  
-[singular-linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/singular%20linked%20list.c)  
+[singular_linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/singular%20linked%20list.c)  
