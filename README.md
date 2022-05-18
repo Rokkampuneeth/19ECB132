@@ -9,3 +9,5 @@ C lang
 [array.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/array%201.c)
 
 [biggest value.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/biggestvalue.c)
+
+[binary tree.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/binarytree.c)
