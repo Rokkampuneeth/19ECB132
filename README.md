@@ -14,3 +14,5 @@ C lang
 [binary tree.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/binarytree.c)
 
 [circular linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/circular%20linked%20list.c)
+
+[division pointer.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/division%20pointer.c)
