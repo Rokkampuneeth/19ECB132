@@ -10,7 +10,6 @@ C lang
 [divisionpointer.c](divisionpointer.c)   
 [doublelinkedlist.c](doublelinkedlist.c)   
 [doublelinkedlists.c](doublelinkedlists.c)   
-[factor !.c](factor !.c)   
 [frequency.c](frequency.c)   
 [integer1.c](integer1.c)
 
