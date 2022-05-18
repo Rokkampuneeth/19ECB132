@@ -5,3 +5,5 @@ C lang
 [add deleting modyfying array.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/ADDING%2CDELETING%2CMODIFYINGANELEMENTINARRAY.c)
 
 [addition of matrix.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/addition%20of%20matrix.c)
+
+[array.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/array%201.c)
