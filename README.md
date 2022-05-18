@@ -37,3 +37,5 @@ C lang
 
 [simple linked lists function.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist_functions.c)
 
+[singly liked lists](https://github.com/Rokkampuneeth/19ECB132/blob/main/singly_linkedlist.c)
+
