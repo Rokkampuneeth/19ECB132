@@ -32,3 +32,6 @@ C lang
 [pointers program 2.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/program%201.c)
 
 [reverse linked lists.c](https://github.com/Rokkampuneeth/19ECB132/blob/main/reverse_linkedlist.c)
+
+[simple linked lists](https://github.com/Rokkampuneeth/19ECB132/blob/main/simple_linkedlist.c)
+
