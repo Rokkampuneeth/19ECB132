@@ -12,5 +12,12 @@ C lang
 [doublelinkedlists.c](doublelinkedlists.c)   
 [frequency.c](frequency.c)   
 [integer1.c](integer1.c)   
+[middlelinkedlist.c](middlelinkedlist.c)  
+[pointersprogram2.c](pointersprogram2.c)  
+[reverselinkedlist.c](reverselinkedlist.c)  
+[simplelinkedlist.c](simplelinkedlist.c)  
+[simplelinkedlistfunctions.c](simplelinkedlistfunctions.c)  
+[singlylinkedlist.c](singlylinkedlist.c)  
+[singularlinkedlist.c](singularlinkedlist.c)  
 
 
