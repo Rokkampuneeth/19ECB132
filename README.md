@@ -17,6 +17,8 @@ C lang
 [reverselinkedlist.c](reverselinkedlist.c)  
 [simplelinkedlist.c](simplelinkedlist.c)  
 [simplelinkedlistfunctions.c](simplelinkedlistfunctions.c)  
-[singlylinkedlist.c](singlylinkedlist.c)  
+[singlylinkedlist.c](singlylinkedlist.c)    
+[factorial.c](factorial.c)  
+
 
 
