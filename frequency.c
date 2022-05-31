@@ -55,3 +55,12 @@ int main()
 
     return 0;
 }
+
+
+nter size of array: 2
+Enter elements in array: 1
+2
+
+Frequency of all elements of array : 
+1 occurs 1 times
+2 occurs 1 times
