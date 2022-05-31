@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	 int a,i,s=1;
 	 printf("enter a value");
@@ -10,3 +10,7 @@ main()
 	 }
 	 printf("%d",s);
 }
+
+
+enter a value4
+24
