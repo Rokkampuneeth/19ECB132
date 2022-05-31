@@ -18,6 +18,5 @@ C lang
 [simplelinkedlist.c](simplelinkedlist.c)  
 [simplelinkedlistfunctions.c](simplelinkedlistfunctions.c)  
 [singlylinkedlist.c](singlylinkedlist.c)  
-[singularlinkedlist.c](singularlinkedlist.c)  
 
 
