@@ -57,7 +57,7 @@ int main()
 }
 
 
-nter size of array: 2
+enter size of array: 2
 Enter elements in array: 1
 2
 
