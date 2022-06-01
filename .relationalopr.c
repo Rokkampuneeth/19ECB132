@@ -7,6 +7,8 @@ int main()
 	return 0;
 }
 
-
+/*
+  output
 (a<b && a<c) = 1
 (c>a && c>b) = 1
+/*
