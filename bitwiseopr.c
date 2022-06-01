@@ -7,6 +7,8 @@ int main()
 	printf("\n r = %d",r);
 }
 
-
+/*
+  output
 a=2,b=3
  r = 2
+  /*
