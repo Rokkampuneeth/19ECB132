@@ -11,6 +11,8 @@ int main()
 	 printf("%d",s);
 }
 
-
+/*
+  output
 enter a value4
 24
+/*
