@@ -29,7 +29,8 @@
  return 0;
 }
 
-
+/*
+  output
 Enter the number of rows and columns of matrix
 2
 2
@@ -46,3 +47,4 @@ Enter the elements of second matrix
 Sum of entered matrices:-
 6   8
 10  12
+  /*
