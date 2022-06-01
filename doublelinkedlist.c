@@ -67,7 +67,8 @@ Enter your choice?
 Enter Item value2
 
 Node inserted
-
+/*
+  output
 *********Main Menu*********
 
 Choose one option from the following list ...
@@ -84,3 +85,4 @@ Choose one option from the following list ...
 
 Enter your choice?
 7
+  /*
