@@ -53,6 +53,8 @@ int main() {
   return 0;
   
 }
+/*
+output
 Singly(Single) Linked List Example - Basic
 
 Enter Element for Insert Linked List (-1 to Exit ) : 
@@ -70,4 +72,5 @@ Enter Element for Insert Linked List (-1 to Exit ) :
 Display Linked List : 
 # 3 # # 5 # # 6 # 
 No Of Items In Linked List : 3
+  /*
 
