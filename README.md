@@ -20,6 +20,8 @@ C lang
 [singlylinkedlist.c](singlylinkedlist.c)    
 [factorial.c](factorial.c)  
 [bitwiseopr.c](bitwiseopr.c)  
+[relationalopr.c](relationalopr.c)  
+
 
 
 
