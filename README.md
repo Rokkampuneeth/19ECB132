@@ -19,6 +19,8 @@ C lang
 [simplelinkedlistfunctions.c](simplelinkedlistfunctions.c)  
 [singlylinkedlist.c](singlylinkedlist.c)    
 [factorial.c](factorial.c)  
+[bitwiseopr.c](bitwiseopr.c)  
+
 
 
 
