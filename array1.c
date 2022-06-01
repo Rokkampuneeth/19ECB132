@@ -21,7 +21,8 @@ void  main()
     printf("\n");	
 }
 
-
+/*
+  output
 Read and Print elements of an array:
 ----------------------
 Input 10 elements in the array :
@@ -36,4 +37,5 @@ element - 7 : 8
 element - 8 : 9
 element - 9 : 10
 
-Elements in array are: 1  2  3  4  5  6  7  8  9  10  
+Elements in array are: 1  2  3  4  5  6  7  8  9  10 
+  /*
