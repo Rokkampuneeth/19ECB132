@@ -56,7 +56,8 @@ int main()
     return 0;
 }
 
-
+/*
+  output
 enter size of array: 2
 Enter elements in array: 1
 2
@@ -64,3 +65,4 @@ Enter elements in array: 1
 Frequency of all elements of array : 
 1 occurs 1 times
 2 occurs 1 times
+/*
