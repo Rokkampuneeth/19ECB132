@@ -11,5 +11,7 @@ int main()
     return 0;
 }
 
-
+/*
+  output
 Division is: 20
+  /*
